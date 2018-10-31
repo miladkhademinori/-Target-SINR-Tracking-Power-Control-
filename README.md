@@ -1,1 +1,1 @@
-# -Target-SINR-Tracking-Power-Control-
+# Target-SINR-Tracking-Power-Control
